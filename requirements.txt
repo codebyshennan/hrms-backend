@@ -1,6 +1,8 @@
 asgiref @ file:///home/conda/feedstock_root/build_artifacts/asgiref_1625395912402/work
 dj-database-url==0.5.0
 Django @ file:///home/conda/feedstock_root/build_artifacts/django_1635766369754/work
+django-cors-headers==3.10.0
+django-heroku==0.3.1
 gunicorn @ file:///home/conda/feedstock_root/build_artifacts/gunicorn_1635854010124/work
 psycopg2==2.9.2
 pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1633452062248/work
