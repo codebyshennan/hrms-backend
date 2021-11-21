@@ -1,0 +1,65 @@
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/wonggshennan/anaconda3/envs/djangoenv
+
+  added / updated specs:
+    - python
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    python-3.10.0              |h543edf9_3_cpython        29.8 MB  conda-forge
+    setuptools-59.2.0          |  py310hff52083_0         1.0 MB  conda-forge
+    ------------------------------------------------------------
+                                           Total:        30.9 MB
+
+The following NEW packages will be INSTALLED:
+
+  _libgcc_mutex      conda-forge/linux-64::_libgcc_mutex-0.1-conda_forge
+  _openmp_mutex      conda-forge/linux-64::_openmp_mutex-4.5-1_gnu
+  bzip2              conda-forge/linux-64::bzip2-1.0.8-h7f98852_4
+  ca-certificates    conda-forge/linux-64::ca-certificates-2021.10.8-ha878542_0
+  ld_impl_linux-64   conda-forge/linux-64::ld_impl_linux-64-2.36.1-hea4e1c9_2
+  libffi             conda-forge/linux-64::libffi-3.4.2-h7f98852_5
+  libgcc-ng          conda-forge/linux-64::libgcc-ng-11.2.0-h1d223b6_11
+  libgomp            conda-forge/linux-64::libgomp-11.2.0-h1d223b6_11
+  libnsl             conda-forge/linux-64::libnsl-2.0.0-h7f98852_0
+  libuuid            conda-forge/linux-64::libuuid-2.32.1-h7f98852_1000
+  libzlib            conda-forge/linux-64::libzlib-1.2.11-h36c2ea0_1013
+  ncurses            conda-forge/linux-64::ncurses-6.2-h58526e2_4
+  openssl            conda-forge/linux-64::openssl-3.0.0-h7f98852_2
+  pip                conda-forge/noarch::pip-21.3.1-pyhd8ed1ab_0
+  python             conda-forge/linux-64::python-3.10.0-h543edf9_3_cpython
+  python_abi         conda-forge/linux-64::python_abi-3.10-2_cp310
+  readline           conda-forge/linux-64::readline-8.1-h46c0cb4_0
+  setuptools         conda-forge/linux-64::setuptools-59.2.0-py310hff52083_0
+  sqlite             conda-forge/linux-64::sqlite-3.36.0-h9cd32fc_2
+  tk                 conda-forge/linux-64::tk-8.6.11-h27826a3_1
+  tzdata             conda-forge/noarch::tzdata-2021e-he74cb21_0
+  wheel              conda-forge/noarch::wheel-0.37.0-pyhd8ed1ab_1
+  xz                 conda-forge/linux-64::xz-5.2.5-h516909a_1
+  zlib               conda-forge/linux-64::zlib-1.2.11-h36c2ea0_1013
+
+
+Proceed ([y]/n)? 
+
+Downloading and Extracting Packages
+setuptools-59.2.0    | 1.0 MB    |            |   0% setuptools-59.2.0    | 1.0 MB    | 1          |   2% setuptools-59.2.0    | 1.0 MB    | #####3     |  53% setuptools-59.2.0    | 1.0 MB    | ########## | 100% setuptools-59.2.0    | 1.0 MB    | ########## | 100% 
+python-3.10.0        | 29.8 MB   |            |   0% python-3.10.0        | 29.8 MB   |            |   1% python-3.10.0        | 29.8 MB   | 2          |   3% python-3.10.0        | 29.8 MB   | 4          |   5% python-3.10.0        | 29.8 MB   | 6          |   6% python-3.10.0        | 29.8 MB   | 8          |   8% python-3.10.0        | 29.8 MB   | 9          |  10% python-3.10.0        | 29.8 MB   | #1         |  11% python-3.10.0        | 29.8 MB   | #2         |  13% python-3.10.0        | 29.8 MB   | #4         |  15% python-3.10.0        | 29.8 MB   | #6         |  17% python-3.10.0        | 29.8 MB   | #8         |  18% python-3.10.0        | 29.8 MB   | ##         |  20% python-3.10.0        | 29.8 MB   | ##2        |  22% python-3.10.0        | 29.8 MB   | ##4        |  24% python-3.10.0        | 29.8 MB   | ##6        |  26% python-3.10.0        | 29.8 MB   | ##7        |  28% python-3.10.0        | 29.8 MB   | ##9        |  30% python-3.10.0        | 29.8 MB   | ###1       |  32% python-3.10.0        | 29.8 MB   | ###2       |  33% python-3.10.0        | 29.8 MB   | ###4       |  34% python-3.10.0        | 29.8 MB   | ###6       |  36% python-3.10.0        | 29.8 MB   | ###7       |  38% python-3.10.0        | 29.8 MB   | ###9       |  40% python-3.10.0        | 29.8 MB   | ####1      |  42% python-3.10.0        | 29.8 MB   | ####3      |  43% python-3.10.0        | 29.8 MB   | ####5      |  45% python-3.10.0        | 29.8 MB   | ####7      |  47% python-3.10.0        | 29.8 MB   | ####8      |  49% python-3.10.0        | 29.8 MB   | #####      |  51% python-3.10.0        | 29.8 MB   | #####2     |  53% python-3.10.0        | 29.8 MB   | #####4     |  54% python-3.10.0        | 29.8 MB   | #####6     |  56% python-3.10.0        | 29.8 MB   | #####7     |  58% python-3.10.0        | 29.8 MB   | #####9     |  59% python-3.10.0        | 29.8 MB   | ######     |  61% python-3.10.0        | 29.8 MB   | ######2    |  62% python-3.10.0        | 29.8 MB   | ######3    |  64% python-3.10.0        | 29.8 MB   | ######4    |  65% python-3.10.0        | 29.8 MB   | ######6    |  66% python-3.10.0        | 29.8 MB   | ######7    |  68% python-3.10.0        | 29.8 MB   | ######9    |  70% python-3.10.0        | 29.8 MB   | #######1   |  72% python-3.10.0        | 29.8 MB   | #######3   |  74% python-3.10.0        | 29.8 MB   | #######5   |  76% python-3.10.0        | 29.8 MB   | #######7   |  78% python-3.10.0        | 29.8 MB   | #######9   |  80% python-3.10.0        | 29.8 MB   | ########1  |  82% python-3.10.0        | 29.8 MB   | ########4  |  84% python-3.10.0        | 29.8 MB   | ########6  |  86% python-3.10.0        | 29.8 MB   | ########8  |  88% python-3.10.0        | 29.8 MB   | #########  |  90% python-3.10.0        | 29.8 MB   | #########1 |  92% python-3.10.0        | 29.8 MB   | #########3 |  94% python-3.10.0        | 29.8 MB   | #########5 |  96% python-3.10.0        | 29.8 MB   | #########7 |  97% python-3.10.0        | 29.8 MB   | #########8 |  99% python-3.10.0        | 29.8 MB   | ########## | 100% 
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+#
+# To activate this environment, use
+#
+#     $ conda activate djangoenv
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
